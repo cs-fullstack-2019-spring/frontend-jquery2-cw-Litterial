@@ -1,0 +1,14 @@
+.whiteBack   /*changes background to white*/
+{
+    background:white;
+}
+
+body{
+background:red;
+}
+
+.makeMe20
+{
+    height:20px;
+    width:20px;
+}
