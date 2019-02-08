@@ -16,7 +16,7 @@ $('.hello').on("click",turnWhite);  /*event listener when you click on any class
 
 function turnWhite()  /*calls function*/
 {
-    $('.hello').addClass('whiteBack');   /*adds a new class*/
+    $(this).addClass('whiteBack');   /*adds a new class for the individual element*/
 }
 
 /********QUESTION 2**************/
